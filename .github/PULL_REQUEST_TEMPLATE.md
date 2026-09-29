@@ -43,4 +43,4 @@ Expect this
 
 ### Reviewer
 - [ ] This code complies with https://earnup.atlassian.net/wiki/spaces/ENG/pages/2220326913/Code+Quality
-- [ ] I understand that be approving this code I am also responsible for it going into the codebase. 
+- [ ] I understand that by approving this code I am also responsible for it going into the codebase. 
